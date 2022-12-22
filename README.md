@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cisticz
-- 👀 I’m interested in QA
+- 👀 I’m interested in DEV/QA
 - 🌱 I’m currently learning java/python
 - 💞️ I’m looking to collaborate on your dreams
 - 📫 How to reach me cisticz@gmail.com
